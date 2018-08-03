@@ -58,4 +58,10 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="requests.sql" />
+    <Build Include="Table1.sql" />
+    <Build Include="admin_notif.sql" />
+    <Build Include="notifications.sql" />
+  </ItemGroup>
 </Project>
