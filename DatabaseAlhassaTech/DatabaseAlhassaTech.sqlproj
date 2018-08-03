@@ -59,10 +59,15 @@
     <Folder Include="Properties" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Build Include="activities_Topics.sql" />
     <Build Include="project_Topics.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="DatabaseAlhassaTech.refactorlog" />
+=======
+    <Build Include="users.sql" />
+    <Build Include="userTypes.sql" />
+>>>>>>> 92f31d33e0323a9cb6b9f1edc1fe7213e128ac58
   </ItemGroup>
 </Project>
