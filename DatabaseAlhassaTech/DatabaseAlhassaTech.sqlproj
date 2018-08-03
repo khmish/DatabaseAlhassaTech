@@ -59,11 +59,11 @@
     <Folder Include="Properties" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
+
     <Build Include="activities_Topics.sql" />
     <Build Include="project_Topics.sql" />
     <Build Include="news_Topics.sql" />
-=======
+
     <Build Include="requests.sql" />
     <Build Include="Table1.sql" />
     <Build Include="admin_notif.sql" />
