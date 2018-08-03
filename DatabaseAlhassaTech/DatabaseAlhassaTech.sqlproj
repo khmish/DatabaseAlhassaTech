@@ -58,4 +58,11 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="activities_Topics.sql" />
+    <Build Include="project_Topics.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="DatabaseAlhassaTech.refactorlog" />
+  </ItemGroup>
 </Project>

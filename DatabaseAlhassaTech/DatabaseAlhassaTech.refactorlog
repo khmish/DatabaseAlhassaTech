@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="a2ebbbbe-c5ea-4296-9406-dab6ce46ba1d" ChangeDateTime="08/03/2018 14:28:21">
+    <Property Name="ElementName" Value="[dbo].[activities_Topics].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[activities_Topics]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="05018a7d-df3f-4954-9668-a21e2341baef" ChangeDateTime="08/03/2018 14:42:00">
+    <Property Name="ElementName" Value="[dbo].[project_Topics].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[project_Topics]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="0ffad8f1-f84d-4655-b640-21cc2c6e559b" ChangeDateTime="08/03/2018 14:46:44">
+    <Property Name="ElementName" Value="[dbo].[news_Topics].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[news_Topics]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ID" />
+  </Operation>
+</Operations>
