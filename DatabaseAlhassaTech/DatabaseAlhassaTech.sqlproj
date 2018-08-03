@@ -59,9 +59,23 @@
     <Folder Include="Properties" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Build Include="activities_Topics.sql" />
     <Build Include="project_Topics.sql" />
     <Build Include="news_Topics.sql" />
+=======
+    <Build Include="requests.sql" />
+    <Build Include="Table1.sql" />
+    <Build Include="admin_notif.sql" />
+    <Build Include="notifications.sql" />
+    <Build Include="messages.sql" />
+    <Build Include="notiﬁcations.sql" />
+    <Build Include="adminNotif.sql" />
+    <Build Include="visitRegister.sql" />
+    <Build Include="visitCounts.sql" />
+    <Build Include="activeRegister.sql" />
+    <Build Include="activityCounts.sql" />
+
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="DatabaseAlhassaTech.refactorlog" />
