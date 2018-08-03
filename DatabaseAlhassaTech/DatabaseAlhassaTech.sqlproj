@@ -58,4 +58,16 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="messages.sql" />
+    <Build Include="notiﬁcations.sql" />
+    <Build Include="adminNotif.sql" />
+    <Build Include="visitRegister.sql" />
+    <Build Include="visitCounts.sql" />
+    <Build Include="activeRegister.sql" />
+    <Build Include="activityCounts.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="DatabaseAlhassaTech.refactorlog" />
+  </ItemGroup>
 </Project>
