@@ -20,6 +20,7 @@
     <Property Name="ParentElementName" Value="[dbo].[news_Topics]" />
     <Property Name="ParentElementType" Value="SqlTable" />
     <Property Name="NewName" Value="ID" />
+  </Operation>
   <Operation Name="Rename Refactor" Key="789de3fb-b993-4151-bfcb-47afca3a47a6" ChangeDateTime="08/03/2018 14:29:59">
     <Property Name="ElementName" Value="[dbo].[messages].[Id]" />
     <Property Name="ElementType" Value="SqlSimpleColumn" />

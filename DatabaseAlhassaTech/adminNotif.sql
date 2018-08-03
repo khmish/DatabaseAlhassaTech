@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[notiﬁcations]
+﻿CREATE TABLE [dbo].[adminNotif]
 (
 	[id] INT NOT NULL PRIMARY KEY, 
     [title] VARCHAR(50) NOT NULL, 

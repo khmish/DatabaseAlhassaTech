@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[visitCounts]
+﻿CREATE TABLE [dbo].[activityCounts]
 (
 	[topicId] INT NOT NULL PRIMARY KEY, 
     [dayVisit] INT NOT NULL, 
